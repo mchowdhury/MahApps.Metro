@@ -25,7 +25,7 @@
                 <Button x:Name="PART_AffirmativeButton"
                                     Height="35"
                                     MinWidth="80"
-                                    Style="{DynamicResource AccentedDialogSquareButton}"
+                                    Style="{DynamicResource SquareButtonStyle}"
                                     Content="{Binding AffirmativeButtonText, RelativeSource={RelativeSource AncestorType=Dialogs:MessageDialog, Mode=FindAncestor}, UpdateSourceTrigger=PropertyChanged}"
                                     Margin="0 0 5 0" />
                 <Button x:Name="PART_NegativeButton"

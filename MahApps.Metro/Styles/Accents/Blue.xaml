@@ -4,7 +4,7 @@
     <Color x:Key="HighlightColor">#FF086F9E</Color>
         
     <!--80%-->
-    <Color x:Key="AccentColor">#CC119EDA</Color>
+    <Color x:Key="AccentColor">#FF007ACC</Color>
     <!--60%-->
     <Color x:Key="AccentColor2">#99119EDA</Color>
     <!--40%-->
